@@ -26,7 +26,7 @@
     echo "Ceci est la 2ème phrase créée avec PHP";
     ?>
     </p>
-    <a href="../index.php">retours</a>
-
+    <a href="../index.php" class="button">Retour</a>         
+  
          </body>
 </html>

@@ -72,6 +72,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {<br>
 }<br>
 ?><br>
     </p>
-    <a href="../index.php">retours</a>
-         </body>
+    <a href="../index.php" class="button">Retour</a>         
+           </body>
 </html>

@@ -58,7 +58,7 @@ if (isset($_POST['nbre'])) {<br>
 }<br>
 ?><br>
     </p>
-    <a href="../index.php">retours</a>
-
+    <a href="../index.php" class="button">Retour</a>         
+  
          </body>
 </html>

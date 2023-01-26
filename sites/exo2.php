@@ -8,9 +8,9 @@
 	<meta name="description" content="rendu_galet"/>	
   </head>
     <header>
-        <h1 class="titre">EXO</h1>
+        <h1 class="titre">EXO2</h1>
     </header>
     <body>
-    <a href="../index.php">retours</a>
+    <a href="../index.php" class="button">Retour</a>
          </body>
 </html>

@@ -111,6 +111,6 @@ echo "z = $z (".gettype($z).")\n";<br>
 ?>
 
     </p>
-    <a href="../index.php">retours</a>
-         </body>
+    <a href="../index.php" class="button">Retour</a>         
+           </body>
 </html>

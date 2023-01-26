@@ -8,7 +8,7 @@
 	<meta name="description" content="rendu_galet"/>	
   </head>
     <header>
-        <h1 class="titre">compte rendu GALET Tommy</h1>
+        <h1 class="titre">Compte rendu GALET Tommy</h1>
     </header>
     <body>
     <nav>
@@ -29,7 +29,11 @@
             <li><a href="sites/exo14.php">exo14</a></li>
         </ul>
     </nav>
+    <img src="https://www.stri.fr/eformation/pluginfile.php/1/theme_adaptable/logo/1645690034/STRI-logo1.png" alt="Logo stri" width=30% height=30% title="logo stri"/>
          </body>
+         <footer>
+        <p>Ce site est un rendu pour l'école STRI de toulouse</p>
+    </footer>
 </html>
 <?php 
 //http://stritommy.atwebpages.com/ 

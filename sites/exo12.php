@@ -38,6 +38,6 @@ echo "La chaine originale est : ".$maChaine;<br>
 echo "La chaine inversée est : ".$maChaineInversee;<br>
 ?><br>
     </p>
-    <a href="../index.php">retours</a>
-         </body>
+    <a href="../index.php" class="button">Retour</a>         
+           </body>
 </html>

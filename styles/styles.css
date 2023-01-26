@@ -9,8 +9,33 @@
     
 }
 body{
+	background: rgba(0, 128, 0, 0.3);
 	text-align: center;
+}
+ul { border: 1px solid black ; }
+li { border: 1px solid red; 
+	 display:inline-block;            
+}
+/* Ci-dessous la media queries */
+@media screen and (max-width: 768px) {
+	li {
+		display:block;      
+	} 
 }
 h2{
 	color: #ff0000;
 }
+.button {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 5%;
+	padding-right: 5%;
+	cursor: pointer;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	background-color: #5fbd5f;
+  }
+  .button:hover {
+	opacity: 0.5;
+  }
