@@ -1,0 +1,16 @@
+.titre{ 
+    font-family: Georgia, serif;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #ff0000;
+    font-family: Comic Sans MS;
+    
+}
+body{
+	text-align: center;
+}
+h2{
+	color: #ff0000;
+}
